@@ -12,34 +12,30 @@ The purpose of this project is  understand what unsupervised learning is used fo
 
 # Results
 
-- Total of tradable cryptocurrencies: 532
-
 ##  Preprocessing the Data for PCA
 
-![StandardScaler]()
+![StandardScaler](https://github.com/meliscelikay/Cryptocurrencies/blob/349e3972bce184532a03a5e3e177971a4dfba70d/Resources/StandardScaler.png)
 
 ## Reducing Data Dimensions Using PCA
 
-![PCA]()
+![PCA](https://github.com/meliscelikay/Cryptocurrencies/blob/349e3972bce184532a03a5e3e177971a4dfba70d/Resources/PCA.png)
 
 ## Clustering Crytocurrencies Using K-Means
 
-![Elbow_Curve]()
+![Elbow_Curve](https://github.com/meliscelikay/Cryptocurrencies/blob/349e3972bce184532a03a5e3e177971a4dfba70d/Resources/Elbow_Curve.png)
 
 ## Visualizing Cryptocurrencies Results
 
-![3D_Scatter]()
+![3D_Scatter](https://github.com/meliscelikay/Cryptocurrencies/blob/349e3972bce184532a03a5e3e177971a4dfba70d/Resources/3D_Scatter.png)
 
 ### Number of Tradable Cryptocurrencies:
 
-![Tradable_Cryptocurrencies]()
+![Tradable_Cryptocurrencies](https://github.com/meliscelikay/Cryptocurrencies/blob/349e3972bce184532a03a5e3e177971a4dfba70d/Resources/Tradable_Cryptocurrencies.png)
 
 ### Plot Results
 
-![plot_results]()
+![plot_results](https://github.com/meliscelikay/Cryptocurrencies/blob/349e3972bce184532a03a5e3e177971a4dfba70d/Resources/plot_results.png)
 
 ### Tradable Cryptocurrencies Scatter Plot
 
-![scatter_plot]()
-
-# Summary
+![scatter_plot](https://github.com/meliscelikay/Cryptocurrencies/blob/349e3972bce184532a03a5e3e177971a4dfba70d/Resources/scatter_plot.png)
